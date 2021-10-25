@@ -1,2 +1,8 @@
 # hello-world
-Creating this repository to learn how to use GitHub
+
+Hello world!
+
+I am Shiro. I just started learning how to use GitHub as I want to use the sample codes for AWS services.
+
+Thank you,
+Shiro
